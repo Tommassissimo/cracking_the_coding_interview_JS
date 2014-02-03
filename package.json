@@ -1,0 +1,15 @@
+{
+  "name": "Cracking_the_coding_interview",
+  "version": "0.0.1",
+  "description": "JavaScript implementation of <Cracking the coding interview>",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Jiayi Zhou",
+  "license": "BSD-2-Clause"
+}
